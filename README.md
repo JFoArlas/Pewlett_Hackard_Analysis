@@ -50,6 +50,7 @@ This query results in 56,859 employees eligible to mentor, which is less than 2 
 It would also be helpful to understand the % of employees retiring in each department to allow Pewlett Hackard to identify if any departments have a higher percentage of employees retiring soon. When you compare the two tables, about 30% of each department is retiring soon with just 2 departments at 31%. 
 
 ![image](https://github.com/JFoArlas/Pewlett_Hackard_Analysis/blob/main/Resources/unique_retirement_depts_table.PNG)
+
 ![image](https://github.com/JFoArlas/Pewlett_Hackard_Analysis/blob/main/Resources/unique_all_depts_table.png)
 
 Given the retirement % is consistent accross departments, I reccomend Pewlett Hackard allocate resources to the mentorship program based on the total number of employees retiring soon vs. the % of employees retiring soon. The Development and Production departments (d005 and d004, respectively) have the most employees and therefore the most empoyees retiring soon. Those two departments combined make up about half of the employees retiring, so the company should put about half their resources finding mentors in those two departments.
